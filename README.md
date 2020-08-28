@@ -6,5 +6,5 @@
  3. Install all project's dependencies: ```npm i```
  4. Type ```node app.js```
  
-### This software will compress all images in the ```src``` path and save in the ```compressed``` path.
+##### This software will compress all images in the ```src``` path and save in the ```compressed``` path.
 
